@@ -1,0 +1,3 @@
+rootProject.name = 'metanav_4138'
+
+include ':app'
